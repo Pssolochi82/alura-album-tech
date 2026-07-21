@@ -175,3 +175,41 @@ http://localhost:5500
 - Para alterar cores, tamanhos, animações ou responsividade, edite `style.css`.
 - Para alterar a API, a navegação, o som ou o carregamento das figurinhas, edite `app.js`.
 - Para utilizar outro endereço de backend, altere `API_BASE_URL` no início de `app.js`.
+
+## ✨ Funcionalidades
+
+- Álbum digital interativo
+- Viragem animada de páginas
+- Carregamento de figurinhas através de API
+- Imagens servidas por endpoints FastAPI
+- Comunicação frontend/backend com CORS
+- Interface responsiva
+- Controlo de som
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- FastAPI
+- Uvicorn
+
+## 🏗️ Arquitetura
+
+Frontend → API FastAPI → Pasta de imagens
+
+## 🚀 Como executar
+
+Instruções para criar a venv, instalar dependências e iniciar o servidor.
+
+## 📡 Endpoints
+
+GET /figurinhas  
+GET /figurinhas/{id}/imagem
+
+## 👩🏾‍💻 Autora
+
+Palmira Solochi
+
+
