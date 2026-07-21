@@ -12,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>▶ Clique na imagem para ver o projeto em funcionamento.</strong>
-</p>
+
 
 <h1 align="center">📖 Alura Album Tech</h1>
 
