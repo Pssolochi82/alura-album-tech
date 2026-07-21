@@ -1,5 +1,21 @@
 # Alura Album — Copa do Mundo Tech
 
+## 🎬 Demonstração em vídeo
+
+<p align="center">
+  <a href="./assets/demo/album-demo.mp4">
+    <img
+      src="./assets/demo/video-cover.png"
+      alt="Demonstração em vídeo do álbum digital"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Clique na imagem para ver o projeto em funcionamento.</strong>
+</p>
+
 <h1 align="center">📖 Alura Album Tech</h1>
 
 <p align="center">
